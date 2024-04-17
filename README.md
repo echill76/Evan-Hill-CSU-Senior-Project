@@ -1,6 +1,6 @@
 # Project Title
 
-Brief Project Description
+Digital Budget Game (Working Title)
 
 ## Compile/Deploy
 
